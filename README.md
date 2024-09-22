@@ -6,3 +6,5 @@
 [lab04]https://github.com/2303A51209/aiml-2303A51209/blob/main/lab4.ipynb
 
 [lab6]https://github.com/2303A51209/aiml-2303A51209/blob/main/AIMLLAB6.ipynb
+
+[Lab - 07] https://github.com/2303A51209/aiml-2303A51209/blob/main/LAB%2007.ipynb
