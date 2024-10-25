@@ -10,3 +10,5 @@
 [Lab - 07] https://github.com/2303A51209/aiml-2303A51209/blob/main/LAB%2007.ipynb
 
 [lab - 08] https://github.com/2303A51209/aiml-2303A51209/blob/main/lab08.ipynb
+
+[Lab 10]https://github.com/2303A51209/aiml-2303A51209/blob/main/lab%2010.ipynb
